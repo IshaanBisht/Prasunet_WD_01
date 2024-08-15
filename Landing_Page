@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/Prasunet_WD_01/style.css" />
+  <title> Anchor Point⚓ </title>
+</head>
+
+<body>
+  <header>
+    <div class="container">
+      <div id="branding">
+        <h1><span class="highlight shadow"> Anchor Point⚓ </span></h1>
+      </div>
+      <nav class="shadow">
+        <ul>
+          <li><a href="Landing_Page">
+              <h2 class="hove"> Home </h2>
+            </a></li>
+          <li><a href="Products.html">
+              <h2 class="hove">Products </h2>
+            </a></li>
+          <li><a href="Recources.html">
+              <h2 class="hove"> Recources </h2>
+            </a></li>
+          <li><a href="Prices.html">
+              <h2 class="hove"> Prices </h2>
+            </a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <section class="showcase">
+    <div class="container">
+      <ul>
+        <ul>
+          <h1 class="shadow">Anchor Point</h1>
+          <div><img src="download.jpeg" alt=""></div>
+          <p>
+        </ul>
+        <b> At Anchor Point, we anchor your digital journey with stability, innovation, and precision. As a leading
+          provider of cutting-edge IT solutions, we are committed to delivering robust and reliable technology services
+          that empower businesses to navigate the complexities of the digital world with confidence.
+        </b> </p>
+      </ul>
+      <ul>
+        <h1 class="shadow">
+          Our Mission
+        </h1>
+        <p><b>
+            Our mission is to serve as a steadfast anchor in the ever-evolving IT landscape. We understand that in
+            today’s fast-paced environment, technology can be both a challenge and an opportunity. Our goal is to
+            provide scalable, efficient, and innovative IT solutions that meet the unique needs of each client, ensuring
+            their systems are secure, their data is protected, and their operations are optimized.
+
+          </b></p>
+      </ul>
+      <ul>
+        <h1 class="shadow">What We Do</h1>
+        <p> <b> We offer a comprehensive suite of IT services designed to support and enhance your business operations,
+            including:
+          </b></p>
+        <p>
+        <ul>
+          <p>
+            <li>
+              <b>Managed IT Services:</b>Proactive management and support to keep your systems running smoothly and
+              securely.
+            </li>
+          </p>
+          <p>
+            <li>
+              <b>Cybersecurity Solutions: </b> Advanced security measures to protect your digital assets from evolving
+              threats.
+
+            </li>
+          </p>
+          <p>
+            <li>
+              <b>Cloud Services: </b> Scalable cloud solutions that provide flexibility and efficiency for your business
+              needs.
+            </li>
+          </p>
+          <p>
+            <li>
+              <b>Custom Software Development: </b> Tailored software solutions to meet your specific business
+              requirements and drive growth.
+            </li>
+          </p>
+        </ul>
+        <ul>
+          <<h1 class="shadow"> Why Choose Us?</h1>
+            <p>
+            <ul>
+              <p>
+                <li>
+                  <b>Reliability: </b>Just as an anchor provides stability to a ship, we ensure your IT infrastructure
+                  is dependable and resilient.
+                </li>
+              </p>
+              <p>
+                <li>
+                  <b>Expertise:</b> Our team of seasoned IT professionals brings a wealth of knowledge and experience to
+                  every project.
+
+                </li>
+              </p>
+              <p>
+                <li>
+                  <b>
+                    Innovation: </b> We stay ahead of the curve with the latest technological advancements to deliver
+                  forward-thinking solutions.
+                </li>
+              </p>
+              <p>
+                <li>
+                  <b>Customer-Centric Approach:</b>We prioritize your needs and work closely with you to understand your
+                  challenges and goals, providing personalized solutions and support.
+                </li>
+              </p>
+            </ul>
+            </p>
+        </ul>
+        <ul>
+          <h1 class="shadow">
+            Our Vision
+          </h1>
+          <p><b>
+              We envision a future where technology seamlessly integrates with business objectives, driving progress and
+              innovation. By anchoring our clients’ IT needs with expert guidance and cutting-edge solutions, we aim to
+              be the
+              trusted partner that helps businesses thrive in the digital age.
+            </b></p>
+        </ul>
+        </p>
+      </ul>
+    </div>
+  </section>
+  <section class="form-container">
+    <div class="container">
+      <h2>Connect with Us</h2>
+      <form>
+        <input type="text" name="name" placeholder="Enter Name" required>
+        <input type="email" name="email" placeholder="Enter Email" required>
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+  </section>
+</body>
+
+</html>
